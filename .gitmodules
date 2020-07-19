@@ -1,0 +1,3 @@
+[submodule "plugins/ark-counterfeit-plugin"]
+	path = plugins/ark-counterfeit-plugin
+	url = https://github.com/gio-js/ark-counterfeit-plugin.git
